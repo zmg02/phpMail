@@ -1,0 +1,9 @@
+
+使用说明
+如果是wamp环境 下载好代码后 直接运行localhost/mail/hillsend.php即可
+看到邮件发送成功即可
+
+文件中的一些配置项需要自己提前设置好 
+请修改functions.php中的参数
+
+2018.7.27整理
